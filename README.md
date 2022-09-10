@@ -1,6 +1,6 @@
 [![mmoutawa's 42 stats](https://badge.mediaplus.ma/darkblue/mmoutawa)](https://github.com/oakoudad/badge42)
 ### Hi there 👋
-
+<!--
 **M0staph4/M0staph4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
